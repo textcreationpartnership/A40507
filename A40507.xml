@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>From a person of quality in Scotland to a person of honour in London, concerning His Royal Highness, James, Duke of York</title>
+            <author>Person of quality.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40507</idno>
+            <idno type="STC">Wing F2237</idno>
+            <idno type="STC">ESTC R36254</idno>
+            <idno type="EEBO-CITATION">12256269</idno>
+            <idno type="OCLC">ocm 12256269</idno>
+            <idno type="VID">57534</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40507)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57534)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 184:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>From a person of quality in Scotland to a person of honour in London, concerning His Royal Highness, James, Duke of York</title>
+                  <author>Person of quality.</author>
+                  <author>Person of honour.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>For Joseph Heath-coat,</publisher>
+                  <pubPlace>[S.l.] :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701.</term>
+               <term>Great Britain --  Kings and rulers --  Succession.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:57534:1"/>
+            <pb facs="tcp:57534:1" rendition="simple:additions"/>
+            <head>From a Perſon of Quality in <hi>SCOTLAND;</hi> TO A Perſon of Honour in <hi>LONDON:</hi> Concerning His ROYAL Highneſs, JAMES, Duke of York.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THE acquaintance that I contracted with you when I was laſt in <hi>England</hi> with Duke <hi>H.</hi> and the ſeveral Diſcourſes, that with ſo much freedom we had together, con<g ref="char:EOLhyphen"/>cerning the ſtate of affairs then in agitation, makes me thus familiarly renew that friendſhip which grew then between us, whereby you will ſee, how much I am alter'd from my ſelf ſince that time: You cannot have forgot I am ſure, in what oppo<g ref="char:EOLhyphen"/>ſition I then ſtood againſt the <hi>D.</hi> of <hi>Y.</hi> ſucceed<g ref="char:EOLhyphen"/>ing to the Crown, and then ſo firm, that all you could ſay, tho' back't with ſtrong arguments and reaſons, could not any ways ſhake me, and there<g ref="char:EOLhyphen"/>fore you may now juſtly wonder how it ſhould come about, that I ſhould now write to you in his behalf: I intended this Letter at the beginning of the Parliament at <hi>Oxford,</hi> and thought it might arrive to you time enough before they might meddle with the Bill of Secluſion, if they ſhould endeavour it at all, knowing the Averſion of his Majeſty from putting by his Brother from his <hi>Hereditary</hi> right, and tho' to our wonder, the Parliament was Diſſolved, before we could think it was well begun, and before I could Write what I intended, yet ſince the Duke has many Enemies in <hi>England,</hi> I have, in letting you ſee my thoughts as to his right of Succeſſion, ſhewed you that his vertues have begotten here, even in this Cold and bigoted Country, ſome Friends.</p>
+            <p>But before I enter upon my Reaſons that any man who ſhall endeavour to put by the D. of <hi>Y.</hi> from his <hi>Hereditary</hi> right, violates the Laws of the Land, ſcandalizes his Religion, and does Unjuſtice to his Prince, I ſhall acquaint you how I came to be thus Intereſſed for the Duke, who was ſo much once againſt him. And firſt I declare to you, leſt you ſhould ſuſpect that it might be the change of my Religion that ſhould have made this change in my Politick opinion, that I am ſtill, and ever ſhall be, of the ſame Religion I was born and bred in; that is, a <hi>Proteſtant;</hi> and that I have as much averſion for the Religion of the Duke, as I have a love and affection for his perſon. But the greateſt motive that begot in me a Veneration for the Duke, and ſo Conſe<g ref="char:EOLhyphen"/>quently for his juſt Intereſt, is the perſonal know<g ref="char:EOLhyphen"/>ledgde of his very many Excellencies and vertues which has raiſed in me, not only an ordinary E<g ref="char:EOLhyphen"/>ſteem, but has made me juſtly think him to be in himſelf no ordinary man, but one worthy of the greateſt Crown in <hi>Europe.</hi> Before I knew him but at a diſtance, and tho' I had often ſeen him and been in his preſence, yet I had received his Characters at ſecond hand, and found him ſome<g ref="char:EOLhyphen"/>times repreſented one thing, ſometims another, according to the ſeveral opinions and Intereſts of perſons, ſo as my knowledge of this great man, was very much diſguiſed, and in the dark, till his reſiding here among us, gave me and many others, a clear proſpect both of his Perſons Acti<g ref="char:EOLhyphen"/>ons, and Vertues. I ſhall not go about to Cha<g ref="char:EOLhyphen"/>racterize him to you, who ſo well know him, and who ſo often from thoſe many ſhining and excel<g ref="char:EOLhyphen"/>lent Vertues in him, has raiſed up Arguments to bring me from the opinion I had entertain'd a<g ref="char:EOLhyphen"/>gainſt him. But you ſee that he himſelf, by his Actions and Convers, in a little time, has been able to do more then all the words and Argu<g ref="char:EOLhyphen"/>ments in the world could do.</p>
+            <p>Having thus ſhewed you upon what account I am become the Dukes friend, you cannot now think it ſtrange, that as an Effect of that Reve<g ref="char:EOLhyphen"/>rence and eſteem, I have received from ſo worthy a perſon, I ſhould write to you in his behalf. And tho' the Parliament be Diſſolved, and that we fear not from thence, the prejudice many did expect, yet I ſhall tell you in few words, my mind; that I think it both unreaſonable and Un<g ref="char:EOLhyphen"/>juſt, for any Subject of <hi>England</hi> to attempt his Secluſion from the Crown. And I muſt here fur<g ref="char:EOLhyphen"/>ther proteſt unto you, that although I had never ſo great eſteem for the D. yet were it not juſt, Lawful, or Right for him to ſucceed in the <hi>Throne</hi> of <hi>England,</hi> I ſhould never open my mouth, nor uſe any Arguments in his behalf, but the Right, Juſtice, and Equity, that I believe him to have on his ſide, makes me trouble you with theſe: And I muſt alſo beg your pardon, that I preſume to tell you my opinion, and to lay down my weak Reaſons for the Juſtice of the Dukes cauſe, ſince I know you are already furniſhed with ſuch, that may in Law and Equity, be a ſufficient Bulwork to defend his right againſt all the oppoſition can be made from Rational &amp; men, therefore honour<g ref="char:EOLhyphen"/>ed Sir, I ſhall be oblieged to uſe the leſs Argu<g ref="char:EOLhyphen"/>ments to you upon that Subject, nor will the ſcantling of a Letter give leave for long <hi>Haran<g ref="char:EOLhyphen"/>gues,</hi> or for Oratorious pleadings of the Caſe.</p>
+            <p>In the firſt place, I ſuppoſe there are none, even among his violent oppoſers, that any ways queſti<g ref="char:EOLhyphen"/>on the <hi>D.</hi> right of Succeſſion, ſo that his indubi<g ref="char:EOLhyphen"/>table right to ſucceed his Brother (whom God long preſerve) if he hath no Legitimate children,
+<pb facs="tcp:57534:2"/>of <hi>England,</hi> that he ſhould ſucceed, becauſe a <hi>Ro<g ref="char:EOLhyphen"/>man Catholique</hi> is the thing ſtood upon: We ſhall not here at all queſtion the right and power that the King and his Parliament may have to diſpoſe of the Succeſſion, and to cut off the D. from all hopes of ſucceding to the Crown, we will grant it, that it is in their power ſo to do, but all that I have to urge to you, is, That in ſo doing, they would be very unjuſt, or at leaſt give very hard meaſure to the Duke, onely becauſe he has chang'd his Religion, and by which means, they have entertained an Opinion, that he will bring in Popery, and alter the Religion of <hi>England:</hi> But I think it is a Maxim in the Chriſtian Religi<g ref="char:EOLhyphen"/>on, that we ought not to commit an evil, that good might come thereon; and therefore, if put<g ref="char:EOLhyphen"/>ting the D. by his juſt and indubitable Right, be a committing an evil againſt Juſtice, Law, and Right, it ought not to be done in any expectancy of all the good that ſhall follow thereupon; And how they can ſalve ſuch an Act, which is decryed by all Princes, and by many wiſe and great per<g ref="char:EOLhyphen"/>ſons, from injuſtice and wrong, I cannot tell. The jealouſies and fears of the people, ought not to ſtir up thoſe in Authority to do injuſtly: and it is feared likewiſe, that the bringing in of Popery, as a conſequence of his ſucceeding to the Crown, is buz'd about into the peoples cars, and thereby increaſing their fears and Jealouſies, by ſome per<g ref="char:EOLhyphen"/>ſons, who may perhaps have other deſigns in their heads, not only of breaking the Legal-line of Suc<g ref="char:EOLhyphen"/>ceſſion, but that alſo of all Kingly Succeſſors: So that, whilſt by this means, the people ſeek to maintain their Religion, they will be forced to looſe their Government, and be reduced again to the many Arbitrary-headed Monſter, whoſe paws will be far more heavy than the Royal Scep<g ref="char:EOLhyphen"/>ter in the Hand of the D. and this I doubt will be all that will be got by Secluding the D. This one thing is enough to make the King fearful of yielding to ſuch an Act, and to cauſe him by all means to endeavour, the ſecuring to his people, the Antient Government of the Kingdome, as well as Religion and Property, ſince there are al<g ref="char:EOLhyphen"/>ſo fears and jealouſies on the one hand, as well as the other.</p>
+            <p>I ſee my Letter grows long, and therefore beg your excuſe, that I huddle up what more I have to ſay, which might be enlarged upon.</p>
+            <p>I ſay further, That the Great and Heroick Love, as well as juſt and pious, that His Majeſty has for his Brother, ſhould be ſome Argument to his people, not to urge things ſo violently againſt the Duke, and ſo oppoſite to the Affection of His Majeſty, he having Declared, <hi>That there is nothing that a</hi> Parliament <hi>can demand, to ſecure them in their Religion, and to quiet their Fears and Jealouſies, he will not willingly grant them, excepting this one thing, of utterly ſecluding his Brother from his Right, which is againſt his Conſcience.</hi> I ſay, that methinks in this matter, the People ſhould be as tender of the Conſcience of their King, as he is of the Deſires of his People; and that a me<g ref="char:EOLhyphen"/>dium may be found out, that may ſatisfie both <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <unclear>the Root of the Tree</unclear>: And to add to the Weight in the Dukes Scale, and to op<g ref="char:EOLhyphen"/>poſe thoſe who would have him to be the Cauſe of the Troubles of the Nation, (tho' nothing yet has been plainly proved, that his Enemies can lay to his Charge) I ſay the people ought not to forget the many Heroick and Valiant acti<g ref="char:EOLhyphen"/>ons he has done for his Countrey, how boldly and willingly he has ventured his Blood and Life, in the <hi>Dutch</hi> Wars, expoſing himſelf to all manner of Dangers, for the ſake of his Country, for which, like the Noble <hi>Themiſtocles,</hi> he is in Danger of running the ſame fate, of being Baniſh'd by thoſe people, to whom he had brought the Crown of Victory: But however, juſtly the <hi>Athenians</hi> thought they might do it, his Baniſhment to this day, ſtands as a Brand of their Ingratitude and ill Nature, in the Records of Hiſtory; as no doubt, will this Secluſion of the Duke, after his Valiant Actions, be recorded to the Diſhonour and ingra<g ref="char:EOLhyphen"/>titude of your Nation.</p>
+            <p>We ſhould now examine, how far the Religion of the Prince, is conſiſting with the Eſſence of Government, and whether there be that danger to the Proteſtant Religion, from a Popiſh Suc<g ref="char:EOLhyphen"/>ceſſor, as his Adverſaries pretend; and many Arguments might hence ariſe, which might give an Eſclariſment to the matter in queſtion, but I doubt I have Treſpaſſed already too long upon your patience, and therefore ſhall not trouble you farther at this time concerning them, believ<g ref="char:EOLhyphen"/>ing you ſufficiently furniſhed of your ſelf, with a true ſpeculative knowledge of thoſe Caſes, and that you are able there-hence to raiſe many Ar<g ref="char:EOLhyphen"/>guments, in ſo juſt a cauſe. But before I bid you farewel, I moſt alſo take notice, that in preſſing the King to perform an Act of Violence to him<g ref="char:EOLhyphen"/>ſelf, they mightily diſtruſt Providence, for after all, the Duke being ſo little under the age of the King, he may firſt dye, and by that moſt natural way ſecure them from their many fears and Jea<g ref="char:EOLhyphen"/>louſies of dangers, that may accrue to them by his Succeſſion, if Providence thinks good; but if not, and that he ſhould ſurvive, I queſtion whe<g ref="char:EOLhyphen"/>ther an Act of Parliament would be able to keep him from endeavouring to obtain his Right: It is therefore the beſt way to wait a while, and to ſubmit to Providence, who knows beſt how to diſpoſe of all things, and not to be too anxious and fearful of things, as may never come to paſs, and not to run into unjuſt Actions, in order to prevent them. Pardon me, I beſeech you, the trouble I have given you, ſince I was urged to it by the Affection I have to a perſon, that I believe moſt in the World are miſtaken in, becauſe Ig<g ref="char:EOLhyphen"/>norant of his Worth, I am</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>Your moſt Humble and Faithful Servant.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophone">
+            <p>
+               <hi>Printed for</hi> Joſeph Heath-coat, <hi>in the Year,</hi> 1681.</p>
+            <pb facs="tcp:57534:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
